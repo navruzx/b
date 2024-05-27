@@ -1,0 +1,28 @@
+body {
+    background: rgb(234,247,241);
+background: linear-gradient(90deg, rgba(234,247,241,1) 0%, rgba(255,21,0,0.3809173327534139) 100%);
+}
+.box1 {
+    width: 300px ;
+    height: 200px;
+    background-color: red;
+    position: relative;
+    left: 150px;
+    top: 100px;
+}
+.box2 {
+    width: 300px ;
+    height: 200px;
+    background-color: green;
+    position: relative;
+    left: 300px;
+    top: 30px;
+}
+.box3 {
+    width: 300px ;
+    height: 200px;
+    background-color: yellow;
+    position: relative;
+    left: 400px;
+    bottom: 30px;
+}
